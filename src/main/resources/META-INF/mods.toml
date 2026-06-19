@@ -1,0 +1,15 @@
+modLoader="neoforgedsl"
+loaderVersion="[21,)"
+license="MIT"
+issueTrackerURL="https://github.com/waveruezz-afk/minecraft-shift-slot-mod/issues"
+
+[[mods]]
+modId="shiftslot"
+version="1.0.0"
+displayName="Shift Slot Mod"
+logoFile="icon.png"
+credits="Created for Minecraft 1.21"
+authors="waveruezz-afk"
+description="""
+A simple mod that moves items to slot 1 when Shift+clicked instead of the default slot 9.
+"""
